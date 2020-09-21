@@ -1,16 +1,16 @@
   
 {
     "fortnite": {
-        "email": [],
-        "owner": [],
-        "platform": "WIN",
-        "outfit": "CID_429_Athena_Commando_F_NeonLines",
+        "email": ["fortnitecustoms11@gmail.com"],
+        "owner": ["Fluffy Killed U"],
+        "platform": "IOS",
+        "outfit": "CID_025_Athena_Commando_F",
         "outfit_style": "",
-        "backpack": "BID_284_NeonLines",
+        "backpack": "",
         "backpack_style": "",
         "pickaxe": "Pickaxe_ID_071_StreetRacer",
         "pickaxe_style": "",
-        "emote": "EID_ElectroShuffle_V2",
+        "emote": "EID_JulyBooks",
         "playlist": "Playlist_Tutorial_1",
         "banner": "InfluencerBanner33",
         "banner_color": "defaultcolor22",
@@ -20,14 +20,14 @@
         "tier": 9999,
         "xpboost": 9999,
         "friendxpboost": 9999,
-        "status": "Battle Royale Lobby - {party_size} / {party_max_size}",
-        "privacy": "private",
+        "status": "Follow Fluffy.Leaks on TikTok",
+        "privacy": "Public",
         "whisper": true,
         "partychat": true,
         "disablewhisperperfectly": false,
         "disablepartychatperfectly": false,
         "ignorebot": true,
-        "joinmessage": "メッセージ\n改行",
+        "joinmessage": "Bot by Fluffy.leaks on TikTok || Follow Fluffy.leaks on TikTok",
         "randommessage": [
             "1",
             "2",
@@ -35,7 +35,7 @@
             "4",
             "5"
         ],
-        "joinmessageenable": false,
+        "joinmessageenable": true,
         "randommessageenable": false,
         "joinemote": true,
         "click_invite": true,
@@ -50,9 +50,9 @@
         "backpacklock": false,
         "pickaxelock": false,
         "emotelock": false,
-        "acceptinvite": true,
+        "acceptinvite": false,
         "acceptfriend": true,
-        "addfriend": false,
+        "addfriend": true,
         "invite-ownerdecline": true,
         "inviteinterval": true,
         "interval": 10,
@@ -63,8 +63,7 @@
         "show-whitelist": true,
         "show-bot": true,
         "blacklist": [
-            "Tfue",
-            "Ninja"
+            ""
         ],
         "blacklist-declineinvite": true,
         "blacklist-autoblock": false,
@@ -72,8 +71,7 @@
         "blacklist-autochatban": false,
         "blacklist-ignorecommand": true,
         "whitelist": [
-            "Crazy_Shotyan",
-            "CR.Daruma"
+            ""
         ],
         "whitelist-allowinvite": true,
         "whitelist-declineinvite": true,
@@ -85,15 +83,15 @@
     },
     "discord": {
         "enabled": false,
-        "token": "Discord Botのトークン",
+        "token": "",
         "owner": [
-            123456789
+            
         ],
         "channels": [
             "{name}-command-channel",
             "bot-command-channel"
         ],
-        "status": "ステータス",
+        "status": "",
         "status_type": "playing",
         "discord": true,
         "disablediscordperfectly": false,
